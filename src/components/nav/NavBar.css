@@ -2,7 +2,6 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: left;
-    background-color: steelblue;
 }
 
 .navbar__item {
